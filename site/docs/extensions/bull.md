@@ -808,3 +808,4 @@ export default {
 
 解决办法是 task 里的 prefix 配置用 {} 包括，强制 redis 只计算 {} 里的hash，例如 `prefix: '{midway-task}'`。
 
+为什么 obliterate 不能用了？为什么cross-env ets 突然不能启动了？为什么单元测试测不通？
